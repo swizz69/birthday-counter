@@ -1,6 +1,6 @@
 #### birthday counter
 
-A really simple and elegant looking birthday counter
+HELLO 
 
 &nbsp;
 
@@ -25,8 +25,8 @@ replace name and birthdate
 
 ```js
 6   const config = {
-7     birthdate: 'Jan 29, 2020',
-8     name: 'Darlene'
+7     birthdate: 'June 13, 2024',
+8     name: 'Busola'
 9   };
 ```
 
